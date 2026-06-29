@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 This is my github profile. I also contribute to Firefox under the handle @brj-moz
 
-[![Bryan's Mozilla GitHub stats](https://github-readme-stats.vercel.app/api?username=brj-moz)](https://github.com/brj-moz/github-readme-stats)
+[![Bryan's Mozilla GitHub stats](https://github-readme-stats.vercel.app/api?username=brj-moz)](https://github.com/anuraghazra/github-readme-stats)
