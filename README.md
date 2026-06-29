@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my github profile. I also contribute to Firefox under the handle @brj-mozilla
+I also contribute to [Firefox](https://github.com/mozilla-firefox/firefox) under the handle @brj-mozilla
 
 [![Bryan's Mozilla GitHub stats](https://github-stats-extended.vercel.app/api?username=brj-mozilla&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
